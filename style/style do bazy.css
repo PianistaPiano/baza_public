@@ -1,0 +1,241 @@
+body
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#tablica
+{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#tb
+{
+    width: 750px; /* tu było 500px */
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+}
+#logo
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    text-align: center;
+
+}
+.square
+{
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+.tile1
+{
+  margin: 10px;
+  width: 880px;
+  height: 80px;
+  background-color: deepskyblue;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tile2
+{
+  margin: 10px;
+  width: 280px;
+  height: 120px;
+  background-color: gray;
+  float: left;
+  text-align: center;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  width: 280px;
+  height: 120px;  
+  justify-content: center;
+  -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  
+}
+.tile2:hover
+{
+    background-color: dimgray;
+    color: white;
+}
+a.tilelink
+{
+    
+    color: #ffffff;
+    text-decoration: none;    
+    text-align: center;
+    width: 280px;
+    height: 120px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#naglowek
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.napis
+{
+    margin-top: 230px;
+    font-size: 30px;
+    text-align: center;
+}
+.form
+{
+    text-align: center;
+}
+.przycisk
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.przycisk:hover
+{
+  background-color: darkgreen;
+}
+.wpisz
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px; 
+}
+.indeks_Z_W
+{
+     /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#napis_W
+{
+    margin-top: 230px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 30px;
+
+
+}
+#container_W
+{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.okno_W
+{
+    margin: 10px;
+    background-color: #4CAF50;
+    width: 175px;
+    height: 70px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.indeks_W
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 175px;
+    height: 30px ;
+    color: white;
+    display: inline-block;
+}
+.przycisk_W
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.przycisk_W:hover
+{
+  background-color: darkgreen;
+}
+.napis_koncowy_W
+{
+    margin-top: 250px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.powrot_glowna_W
+{
+    margin-top: 20px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.Dokument
+{
+    margin-top: 20px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.doc-style
+{
+    background-color: gold;
+    display: inline-block;
+    border: none;
+    text-decoration: none;
+}
+#naglowek_K
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
+.napis_K
+{
+    display: inline-block;
+    margin: 7px;
+}

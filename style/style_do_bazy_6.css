@@ -1,0 +1,90 @@
+body
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+#napis_kl
+{
+    margin-top: 270px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 30px;
+
+
+}
+#container_kl
+{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
+#container_k_Z
+{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
+.okno_kl
+{
+    margin: 10px;
+    background-color: #4CAF50;
+    width: 175px;
+    height: 70px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.indeks_kl
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 175px;
+    height: 30px ;
+    color: white;
+    display: inline-block;
+}
+
+.przycisk_kl
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.przycisk_kl:hover
+{
+    background-color: darkgreen;
+    text-decoration: none;
+    color: white;
+}
+#container_W
+{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.napis_koncowy_W
+{
+    margin-top: 250px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.napis_K
+{
+    display: inline-block;
+    margin: 7px;
+}

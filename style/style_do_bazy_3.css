@@ -1,0 +1,95 @@
+body
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.indeks_kl
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 175px;
+    height: 30px ;
+    color: white;
+    display: inline-block;
+}
+#napis_kl
+{
+    margin-top: 270px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 30px;
+
+
+}
+.przycisk_kl
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.przycisk_kl:hover
+{
+    background-color: darkgreen;
+    text-decoration: none;
+    color: white;
+}
+#naglowek
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.napis
+{
+    margin-top: 150px;
+    font-size: 30px;
+    text-align: center;
+}
+.wpisz_Z_W
+{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px; 
+}
+.wpisz
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px; 
+}.form
+{
+    text-align: center;
+}
+.przycisk
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.przycisk:hover
+{
+  background-color: darkgreen;
+}
